@@ -59,7 +59,7 @@ background-color: #746683;
 
 header {
   text-align: center;
-  background: url('images/IMG_0074.jpeg') no-repeat top center ;
+  background: url('images/IMG_0074.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -69,7 +69,7 @@ header {
 }
 header .profile-image {
   margin-top: 50px;
-  width: 150px;
+  width: auto;
   height: 150px;
   border-radius: 50%;
   border: 3px solid white;
